@@ -3,3 +3,5 @@
 <img width="354" height="703" alt="Zrzut ekranu 2025-07-23 o 19 10 12" src="https://github.com/user-attachments/assets/4e705f2b-500c-4001-9eda-e7ba06a77e37" />
 
 <img width="353" height="700" alt="Zrzut ekranu 2025-07-23 o 19 10 36" src="https://github.com/user-attachments/assets/cc9ff252-d10e-4c97-b9de-6cc55806bc64" />
+
+<img width="354" height="703" alt="Zrzut ekranu 2025-07-23 o 19 11 19" src="https://github.com/user-attachments/assets/c1a49321-4230-4712-a4c8-c61f847dec37" />
